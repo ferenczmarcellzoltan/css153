@@ -1,11 +1,14 @@
-![feladat_0153_minta](https://github.com/user-attachments/assets/42cc9b08-a036-46b3-8c01-132d5bae4f43)
+
+![feladat_0153_minta](https://github.com/user-attachments/assets/e15fd1f1-715f-408d-83f7-1f2e368e6bd4)
+
 A dobozok rugalmas méretűek legyenek.
 
 Néhány beállítás:
-
-A teljes oldal háttérszíne: aqua
-Az egyes dobozok háttérszíne: darkmagenta
-Az alsó szegély színe: gold
-Az első doboz szélessége: 50%;
-A dobozok magassága 30 pixel.
-A fődoboz háttérszíne: fehér.
+<ul>
+<li>A teljes oldal háttérszíne: aqua</li>
+<li>Az egyes dobozok háttérszíne: darkmagenta</li>
+<li>Az alsó szegély színe: gold</li>
+<li>Az első doboz szélessége: 50%;</li>
+<li>A dobozok magassága 30 pixel.</li>
+<li>A fődoboz háttérszíne: fehér.</li>
+</ul>
