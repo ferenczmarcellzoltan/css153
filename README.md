@@ -1,4 +1,4 @@
-https://szit.hu/doku.php?id=oktatas:web:feladatok:css
+
 ![feladat_0153_minta](https://github.com/user-attachments/assets/e15fd1f1-715f-408d-83f7-1f2e368e6bd4)
 
 A dobozok rugalmas méretűek legyenek.
@@ -12,3 +12,4 @@ Néhány beállítás:
 <li>A dobozok magassága 30 pixel.</li>
 <li>A fődoboz háttérszíne: fehér.</li>
 </ul>
+https://szit.hu/doku.php?id=oktatas:web:feladatok:css
